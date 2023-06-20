@@ -1,0 +1,24 @@
+	{ "store": {
+"book":[
+{
+"Cagegory":"reference",
+"author":"nigel",
+"price":12.2
+},
+{
+"Cagegory":"romance",
+"author":"miki",
+"price":18.2,
+"isbn":"11.2.3"
+},
+{
+"Cagegory":"action",
+"author":"dani",
+"price":1142.2
+}],
+"bicycle":{
+"color":"red",
+"price":442.2
+}
+}
+}
